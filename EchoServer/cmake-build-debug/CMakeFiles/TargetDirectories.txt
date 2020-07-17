@@ -1,0 +1,3 @@
+D:/projects/MarioOnline/EchoServer/cmake-build-debug/CMakeFiles/EchoServer.dir
+D:/projects/MarioOnline/EchoServer/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/projects/MarioOnline/EchoServer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
